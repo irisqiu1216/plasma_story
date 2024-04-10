@@ -1,0 +1,48 @@
+html,body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 1.5;
+  font-size: 20px;
+  background-color:rgb(252, 240, 222) ;
+  width:90%;
+  margin: auto;
+}
+
+h1{
+  text-align: center;
+}
+
+#byline{
+  font-size: 16px;
+  text-align: center;
+  margin: 0;
+}
+
+.navLinks{
+  list-style-type: none;
+  text-align: center; 
+  background-color:rgb(252, 240, 222);
+}
+.navLinks li {
+  display: inline-block;
+  padding: 0 1.5rem 0 1.5rem;
+ }
+.navLinks a{
+  font-size: 16px;
+  color: #cf6a00;
+  text-decoration: none;
+  font-weight: bold;
+  }
+
+.flourish-embed{
+  width: 45%;
+  text-align: center;
+  margin: 0 0 0 10rem;
+}
+
+footer{
+  background-color: #cf6a00;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+}
+
