@@ -34,15 +34,29 @@ h1{
   }
 
 .flourish-embed{
-  width: 45%;
-  text-align: center;
-  margin: 0 0 0 10rem;
+  width: 100%;
+  margin-bottom: 2rem;
 }
 
+figure img {
+  width: 100%;
+}
+
+figcaption{
+  font-size: 12px;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+}
 footer{
   background-color: #cf6a00;
   font-size: 16px;
   color: white;
   text-align: center;
 }
+
+
+
+
+
+
 
